@@ -1,0 +1,9 @@
+{
+  "name": "ewaste-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static e-waste business dashboard for India: recycler directory, analytics, roadmap and finance model.",
+  "scripts": {
+    "dev": "npx serve public"
+  }
+}
